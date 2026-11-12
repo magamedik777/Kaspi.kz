@@ -1,0 +1,16 @@
+{
+  "name": "Kaspi.kz",
+  "short_name": "Kaspi.kz",
+  "start_url": "/Kaspi.kz/",
+  "scope": "/Kaspi.kz/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1041/1041916.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
